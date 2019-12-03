@@ -1,0 +1,11 @@
+name: TeamUI
+version: TWICE
+main: tui\Main
+api: 3.0.0
+softdepend:
+- FormAPI
+- EconomyAPI
+author: KRUNCH7SHooT
+commands:
+ tui:
+  description: "TeamUI"
